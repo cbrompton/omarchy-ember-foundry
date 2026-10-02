@@ -48,6 +48,8 @@ The generated images are 1672 × 941 pixels. The 3840 × 2160 files are high-qua
 - [`icons.theme`](icons.theme) selects Yaru's warm brown icon variant.
 - [`preview.png`](preview.png) provides a theme picker preview.
 
+For a subtle amber halo outside focused windows, follow the [optional Hyprland glow setup](docs/window-glow.md). Omarchy's Git installer does not automatically load executable Lua from a theme repository.
+
 Foreground text has an 11.3:1 contrast ratio against the main background; the amber accent has a 7.7:1 ratio.
 
 ## Artwork
